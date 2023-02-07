@@ -1,3 +1,3 @@
 # CR-VAE
 
-Codes of CR-VAE. We will attach codes and paper link ASAP.
+Codes of CR-VAE. Run CRVAE_demo.py to obtain results on Henon data.
